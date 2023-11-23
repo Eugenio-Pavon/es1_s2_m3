@@ -1,0 +1,20 @@
+.card-group {
+  justify-content: center;
+  margin-top: 20px;
+}
+.card {
+  background-color: rgb(113, 148, 184);
+  margin-top: 20px;
+}
+.album {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  align-items: start;
+  gap: 10px;
+  margin-top: 20px;
+}
+img {
+  object-fit: cover;
+  max-width: 700px;
+}
